@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@lit-labs/motion": "^1.0.1",
+    "@material/mwc-button": "^0.25.1",
+    "@material/mwc-checkbox": "^0.25.1",
+    "@material/mwc-formfield": "^0.25.1",
+    "@material/mwc-textfield": "^0.25.1",
+    "lit": "^2.4.1"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.1.35"
+  },
+  "name": "lista-lit",
+  "version": "1.0.0",
+  "main": "motion-todos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
